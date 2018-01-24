@@ -14,5 +14,6 @@ public class StringEx {
 		
 		System.out.println("C:\\dev\\vswork");
 		System.out.println("C:\\dev\\vswork");
+		System.out.println("C:\\dev\\vswork");
 	}
 }
